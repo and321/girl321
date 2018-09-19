@@ -1,11 +1,11 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/)
+# [Sex_Videos](http://startbootstrap.com/) - [Sex_Videos](http://startbootstrap.com/template-overviews/shop-homepage/)
 
-[Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Sex_Videos](http://startbootstrap.com/template-overviews/shop-homepage/) is a basic HTML online store homepage template for [Videos](http://getbootstrap.com/) created by [Sex_Videos](http://startbootstrap.com/).
 
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/shop-homepage/)
+* [Download the New_videos_Party](http://startbootstrap.com/template-overviews/shop-homepage/)
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-shop-homepage.git`
 * Fork the repo
 
